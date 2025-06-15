@@ -1,2 +1,38 @@
+# Python specific ignores
+__pycache__/
+*.pyc
+*.pyd
+*.so
+.Python
+env/
 venv/
+pip-log.txt
+pip-delete-this-arg.txt
+.tox/
+.coverage
+.pytest_cache/
+htmlcov/
+.nox/
+
+# Environment variables
 .env
+
+# Data and Scripts (not needed for deployment runtime)
+data/
+scripts/
+
+# Faiss index temporary files (if any are generated)
+# Note: Ensure you are NOT ignoring the actual faiss_index directory itself,
+# just potential temp files or specific sub-files if they are generated during local dev.
+# The `vector_store/faiss_index/` directory itself should be committed to Git if it's
+# part of your deployable artifact.
+# If your FAISS index is very large and you plan to download it at deploy time
+# rather than committing it, you might add vector_store/faiss_index/, but generally
+# for RAG, the index is part of the code that gets deployed.
+# For this structure, we assume vector_store/faiss_index/ IS committed.
+
+# Editor and OS specific ignores
+.DS_Store
+*.swp
+*.bak
+*.swo

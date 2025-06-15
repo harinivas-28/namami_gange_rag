@@ -1,13 +1,19 @@
-__pycache__
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.env
+# Ignore Git specific files
 .git
 .gitignore
-.pytest_cache
-.coverage
-htmlcov/
+
+# Python specific ignores for Docker build context
+__pycache__/
+*.pyc
+env/
+venv/
+
+# Sensitive environment file
+.env
+
+# Data and Scripts (not needed in the final Docker image)
+data/
+scripts/
+
+# Editor and OS specific ignores
+.DS_Store
