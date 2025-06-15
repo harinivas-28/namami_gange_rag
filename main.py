@@ -20,10 +20,11 @@ load_dotenv()
 if not os.getenv("GOOGLE_API_KEY"):
     raise ValueError("GOOGLE_API_KEY not found in .env file")
 
+
 # Configuration
-VECTOR_STORE_PATH = "vector_store/faiss_index"
-EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-LLM_MODEL = "gemini-1.5-flash" # Fast, efficient, and with a large context window
+VECTOR_STORE_PATH = os.getenv("VECTOR_STORE_PATH")
+EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL")
+LLM_MODEL = os.getenv("LLM_MODEL") # Fast, efficient, and with a large context window
 
 # --- 2. Define API Models ---
 class QueryRequest(BaseModel):
@@ -111,3 +112,6 @@ async def query_rag(request: QueryRequest):
     return QueryResponse(answer=answer)
 
 # To run this app: uvicorn main:app --reload
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 8000)) # Default to 8000 for local development
+    uvicorn.run(app, host="0.0.0.0", port=port)

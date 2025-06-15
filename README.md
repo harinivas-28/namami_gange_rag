@@ -66,19 +66,16 @@ rag_namami_gange/
 
 2. **Scrape Data**:
    ```bash
-   cd rag_namami_gange/scripts
-   python scrape.py
+   python scripts/scrape.py
    ```
 
 3. **Build the Index**:
    ```bash
-   # Still in the scripts directory
-   python build_index.py
+   python scripts/build_index.py
    ```
 
 4. **Run the API Server**:
    ```bash
-   cd ..
    uvicorn main:app --reload
    ```
 
