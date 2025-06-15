@@ -86,7 +86,7 @@ rag_chain = (
 @app.get("/", summary="Health Check")
 def read_root():
     """Root endpoint to check if the API is running."""
-    return {"status": "ok", "message": "Namami Gange RAG API is running."}
+    return {"status": "ok", "message": "Namami Gange RAG API is running.\n, use '/docs' to access api."}
 
 
 @app.post("/query", response_model=QueryResponse, summary="Query the RAG system")
