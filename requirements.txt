@@ -1,0 +1,18 @@
+# Core RAG and AI
+langchain
+langchain-google-genai
+langchain-community
+sentence-transformers
+faiss-cpu # or faiss-gpu if you have a compatible GPU
+
+# Web Scraping
+requests
+beautifulsoup4
+
+# API and Server
+fastapi
+uvicorn[standard]
+pydantic
+
+# Environment Management
+python-dotenv
