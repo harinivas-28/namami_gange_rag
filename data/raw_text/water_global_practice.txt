@@ -1,0 +1,356 @@
+WATER GLOBAL PRACTICE
+
+
+
+
+Wastewater: From Waste
+to Resource
+The Case of Nagpur, India
+
+
+
+
+Treating Wastewater for Reuse in Thermal                   enforcement of mandatory water reuse targets for
+Power Generation                                           industries. The national target is to treat and reuse
+Context                                                    50 percent of total wastewater by 2022 (PwC 2016).
+Water stress has become a problem in most Indian           Some cities have set their own, more ambitious targets,
+cities, as rapid population growth increases simul-        and states such as Gujarat (Government of Gujarat,
+taneously water demand by households, industries,          2018) and  Maharashtra (IndianExpress, 2017) have
+and power plants. Utilities need to meet this growing      implemented new policies to promote wastewater
+demand while ensuring fair tariffs for users and pro-      reuse. Moreover, the government of India has adopted
+moting a sustainable use of water resources.               policies, established strong mechanisms of regulation,
+                                                           ­
+                                                           and provided funding for various programs, such as
+As federal and state governments look for innovative
+                                                           the Jawaharlal Nehru National Urban Renewal Mission
+alternatives to freshwater, the reuse of treated waste-
+                                                           (JNNURM), to enable municipal authorities to enter
+water is gaining attention and being promoted at the
+                                                           into public-private partnership (PPP) arrangements
+federal and state levels. In addition to the environmen-
+                                                           to attract private funding. As a result, municipalities
+tal, health, and social benefits of treating wastewater;
+                                                           across the country have started to implement waste-
+treated wastewater can become a reliable water source
+                                                           water reuse projects. Most of these initiatives are led
+for industrial users, freeing up freshwater resources
+                                                           by utilities, through partnerships with the private sec-
+for households and helping address water scarcity in
+                                                           tor, and with the central government covering part of
+big cities.
+                                                           the capital costs. The success of these projects reveals
+The government of India has taken steps to promote         that wastewater reuse activities can be viable if prop-
+wastewater reuse, starting with the regulation of          erly structured and supported by enabling policies
+industrial water consumption and the setting and           and institutions.
+
+
+
+
+                                                                                                                  1
+This note focuses on the case of Nagpur. Nagpur is the               The partnership took the form of a build-operate-
+largest city in central India. It has considerable politi-           transfer (BOT) end-user contract with a 30-year
+cal and geographical importance but limited sources of               concession, with the option for extension. NMC agreed
+freshwater. Demand for water increased substantially                 to provide the raw wastewater, and MahaGeCo agreed
+over the decade before the project due to population                 to be in charge of the transportation and treatment
+growth and economic development. Large amounts of                    needed to be able to reuse the wastewater effluent
+freshwater were used to generate electricity in thermal              from the NMC sewerage system. The contract was
+power plants owned and operated by the Maharashtra                   developed to ensure a regular source of water to the
+Generation Company Ltd. (MahaGenCo) . To meet        1
+                                                                     power plant (the raw wastewater) while providing NMC
+increasing electricity demand, in 2008 MahaGenCo                     with a constant stream of revenue from MahaGenCo
+decided to increase its power capacity, a move that                  (in the form of raw wastewater fees). The city would
+required additional water supply for its operations.                 also reap the environmental, health and social benefits
+Before the project described below, wastewater treat-                from the extra wastewater treatment.
+ment capacity in Nagpur was low. The city generated
+                                                                     The investment project included a raw wastewater
+around 425 million litres a day of wastewater. However,
+                                                                     intake facility with a pumping station of 130 million
+the Nagpur Municipal Corporation (NMC) had only one
+                                                                     liters per day, a 2.3-kilometer pipeline to the wastewater
+wastewater treatment plant, with a capacity of just
+                                                                     treatment facility, a wastewater treatment plant with
+100 million litres a day (ICLEI 2010). Given the water
+                                                                     secondary and tertiary treatment to meet MahaGenCo’s
+scarcity in the region and the heavy water demand
+                                                                     water quality requirements, a 16.2-kilometer pipeline
+for the upcoming power plant, MahaGenCo decided
+                                                                     from the wastewater treatment plant to the power
+to partner with NMC to explore the use of wastewater
+                                                                     plant, and a one-day reservoir of treated wastewater at
+from Nagpur for its operations.
+                                                                     the Koradi Thermal Power Plant for back-up (figure 1).
+
+ CHALLENGE                                                           The fact that MahaGenCo was the only end-user of
+ Water scarcity                                                      wastewater ensured strong project ownership and
+ Low wastewater treatment capacity                                   management, which were facilitated by regular
+ Increased water demand for the power sector
+                                                                     communication and coordination with the municipal
+ OBJECTIVE OF THE REUSE PROJECT                                      authority. There was no bidding process, because the
+ Diversify water supply sources by incorporating alternative         MahaGenCo directly approached NMC and selection
+ sources (treated wastewater) and invest in sanitation and
+                                                                     was done on a sole-source (nomination) basis (FICCI
+ wastewater infrastructure for the city.
+                                                                     Water Mission and 2030 WRG 2016). The collaboration
+                                                                     between NMC and MahaGenCo ensured that the
+Solution: The Build-Operate-Transfer End-User
+                                                                     synergies of wastewater treatment and reuse were
+Public-Private Partnership Model
+                                                                     fully exploited through the contractual arrangement.
+The water reuse project, which came into operation
+in 2015, reuses municipal treated wastewater from                    An important aspect of this project is that MahaGenCo
+Nagpur for cooling purposes in the new power plant                   did not undertake the transport and treatment of
+(the Koradi Thermal Power Plant) built and operated                  the wastewater but instead selected an engineering,
+by MahaGenCo. MahaGenCo and NMC signed a                             procurement, and construction  (EPC) contractor
+Memorandum of Understanding in 2008 “Construction                    and an operations and maintenance (O&M) operator
+and     Operating       Agreement          of   Treatment      and   through a single-stage competitive tender (FICCI Water
+Transmission Facilities for Reclaimed Water Usage”.                  Mission and 2030 WRG 2016).
+
+
+
+
+2	                                                                                            Wastewater: From Waste to Resource
+FIGURE 1.   Diagram of the Nagpur wastewater reuse project
+
+
+
+                                      Secondary and
+                                      Tertiary WWTP
+      WASTEWATER
+                                                                             One day
+                                                                              Storage
+        2.3 km pipe                                                          reservoir
+                                                                                                                 Power Plant
+
+                                                       TREATED
+                                                      WASTEWATER
+                                                      16.2 km pipe
+
+Source: adapted from Sharma, 2013.
+Note: WWTP = wastewater treatment plant
+
+
+
+
+Financial and Contractual Agreements                          concession period (ITAC, 2019). This income represents
+
+The capital cost of the project was about INR 195 crore       twice the amount of depreciation of the asset and
+
+(US$28 million), excluding the cost of land, which NMC        allows NMC to cover the operating and maintenance
+
+agreed to provide. NMC also agreed to cover part of the       cost of the existing wastewater treatment plant in
+
+capital cost with a grant of INR 90 crore from JNNURM.        Bandewhadi and the cost of some rehabilitation works.
+
+MahaGenCo agreed to finance the rest and to assume
+                                                              Benefits of the Wastewater Treatment Project in
+cost overruns (FICCI Water Mission and 2030 WRG 2016).
+                                                              Nagpur, India
+MahaGenCo committed to build, operate, and maintain
+the wastewater treatment plant and pay NMC a fixed            Economic                               Environmental and social
+amount of INR 15 crore (US$ 2.25 million) a year for the      •	 For the power plant. Treated        •	 The project reduces net
+
+raw wastewater (110 million liters a day). For flows that       wastewater is less expensive,         freshwater extractions by
+                                                                of more consistent quality and        the power sector, freeing up
+exceeded the contracted amount, MahaGenCo agreed
+                                                                quantity, and more sustainable        freshwater resources for other
+to pay NMC INR 2.03 per cubic meter of raw wastewater.
+                                                                than freshwater. The power            uses (around 47 Mm3 per
+                                                                plant pays INR 3.4 instead of         annum (Sharma, 2013)).
+The benefits of the deal to MahaGenCo are the cost              INR 9.6 per cubic meter of           •	 Increased urban wastewater
+savings of using wastewater rather than freshwater              water. Using wastewater also          treatment capacity results in
+to meet its water requirements. The treatment and               results in increased resilience to    cleaner and healthier water
+                                                                droughts, reducing supply risks
+provision of water through this arrangement cost                                                      bodies, with the associated
+                                                              •	 For NMC. The revenue stream          environmental and social
+Mahagenco about INR 3.4 (US$0.05) per cubic meter
+                                                                from treated wastewater fees          benefits
+(Sharma, 2013). Its costs would have been significantly
+                                                                can cover the O&M costs of           •	 The project serves as model
+higher if it had sourced fresh water from another               other wastewater treatment            for other cities and states to
+municipal or irrigation project (about INR 9.6 (US$0.13)        plants.                               follow.
+per cubic meter for recent projects) (World Bank 2016).
+                                                              Institutional and Policy Environment
+For NMC, given that its investment was a grant from           Local governments in India are responsible for
+the JNNURM program, the royalties from the sale of            providing wastewater services. Various central, state,
+wastewater to MahaGenCo represent an extra revenue            and local government agencies regulate wastewater
+stream of nearly INR 400 crore (US$ 60 million) over the      reuse (Figure 2).
+
+
+Wastewater: From Waste to Resource	3
+The key policy documents supporting wastewater                          the country’s environmental objectives and encour-
+reuse throughout the country include the following                      ages the reuse of reclaimed water over freshwater
+(ECA, 2019):                                                            through preferential tariffs.
+
+•	 The Water (Prevention and Control of Pollution)                 State policies: In 2017 the State of Maharashtra adopted
+     Act of 1974 sets out norms for sewage and indus-              a new policy that makes wastewater reuse a primary
+     trial effluent discharges. It mandates that indus-            responsibility of municipalities and directs them to
+     tries and local bodies treat wastewater to a                  draft action plans to increase wastewater reuse (NDTV,
+     specified quality level before discharging it.                2017). To make the projects economically viable, the
+
+•	 The National Urban Sanitation Policy of 2008 pro-               state government mandates that power plants and
+                                                                   industrial units located within 50 kilometers of the
+     motes the reuse of recycled water. It suggests a min-
+                                                                   municipalities buy and use treated wastewater for
+     imum target of 20 percent wastewater reuse in every
+                                                                   nonpotable uses once it is available. Public funding has
+     city.
+                                                                   been approved to build more wastewater treatment
+•	 The       National Water Policy (2012) recognizes the           plants in the region. However, the government is also
+     importance of reusing treated wastewater to meet              encouraging a private funding model.
+
+FIGURE 2.     Institutional framework for municipal wastewater reuse in India
+
+
+
+                                      Ministry of                     Ministry of Urban                      Ministry of
+                                    water resources                 Development (MoUD)                      Environment
+
+
+
+
+                                                                 Central Public Health and                Central Pollution
+     Central Ground                Namami Gange
+                                                                Environmental Engineering                  Control Board
+      Water Board                     Mission
+                                                                  Organisation (CPHEEO)                       (CPCB)
+
+
+
+
+                                                                         Department of
+                                      State                                                                State Pollution
+                                                                           Municipal
+                                   water boards                                                            Control Board
+                                                                         Administration
+
+
+
+
+                                                         Urban                             Urban local
+                                                      water utilities                     bodies (ULBs)
+
+
+
+
+                                                          Domestic and industrial water consumers
+
+
+
+Source: PwC 2016.
+
+
+
+
+4	                                                                                             Wastewater: From Waste to Resource
+Lessons Learned                                                       explore other options, such as the reuse of treated
+
+Thanks in part to this project, the city of Nagpur is                 wastewater.
+
+on its way to becoming the first Indian city to reuse
+                                                                 •	 The proximity of the power plant to the wastewa-
+more than 90 percent of its wastewater.2 Many factors
+                                                                      ter treatment plant, which lowered water trans-
+contributed to the project’s success, which became a
+                                                                      port costs.
+catalyzer for the development of other wastewater
+reuse projects in the city:                                   Notes
+
+•	 A
+                                                              1.	 Thermal power plants require water for cooling purposes. More infor-
+       well-designed contractual arrangement facili-              mation on the water requirements of power plants can be found in
+     tated clear project ownership and management by              the website of the “Thirsty Energy” Initiative by the World Bank:
+                                                                  https://www.worldbank.org/thirstyenergy
+     the end-user and the urban body. The main driver
+     of the project was the end-user’s need to obtain         2.	https://timesofindia.indiatimes.com/city/nagpur/nmc-to-become​
+                                                                  -nations-first-city-to-reuse-91-sewage/articleshow/67494230.cms
+     secure sources of water at an affordable cost.
+
+•	 The     BOT end-user PPP model ensured that                References
+     wastewater treatment was done according to the           ECA (Economic Consulting Associates). 2019. “From Waste to Resource:
+                                                              Why and How Should We Plan and Invest in Wastewater? Policy,
+     requirements of the end-user (the power plant).
+                                                              Institutional   and    Regulatory   Incentives.”   Unpublished   technical
+
+•	   Having a single end-user that committed to take          background paper prepared for the World Bank. London.
+
+     all the treated wastewater reduced the wastewater        Government of Gujarat, 2018. Policy for reuse of treated wastewater.
+                                                              May 2018. http://www.indiaenvironmentportal.org.in/files/file/Policy_
+     demand risk.
+                                                              Reuse_Of_WasteWaterA.pdf
+
+•	 Government support and political will: Central, state      FICCI Water Mission, and 2030 WRG. 2016. Urban Wastewater Public-
+     and local governments have a number of support           Private Partnerships. White Paper. https://www.2030wrg.org/wp-content​
+
+     schemes and initiatives to promote wastewater            /uploads/2016/04/FICCI-Water-Mission-2030-WRG-White-Paper-Urban​
+                                                              -Waste-Water-PPPs-V6Rev1-With-Pix.pdf
+     reuse. Government policies on water resource
+                                                              Hastak, S., 2015. 24X7 Water Initiative and Waste Water Reuse – Case Study
+     management and wastewater reuse were clear.
+                                                              Nagpur. http://icrier.org/Urbanisation/events/23-2-15/Nagpur%2024x7_23​
+     The Government of Maharashtra and NMC were               .02.15.pdf.
+     strongly committed to the project.
+                                                              ICLEI (International Council for Local Environmental Initiatives).
+
+•	   Strong communication and coordination between            2010. Nagpur, India: Water Sector Audit Enables Efficient Use of Water
+                                                              and Energy Resources in Nagpur. http://www.iclei.org.br/polics/CD​
+     the water utility and the end-user helped fully          /­P 2_4​_ Estudos%20de%20Caso/2_Agua/PDF108_EC110_Nagpur_India​
+     exploit the synergies of wastewater treatment and        .PDF.
+
+     reuse. Reusing treated wastewater met the water          Sharma, 2013. Mahagenco – Nagpur Municipal Corporation wastewater reuse
+
+     demand of the thermal power plant allowing the           project at Nagpur: water supply for 3x660 MW Koradi TPS. Presentation.
+                                                              http://mohua.gov.in/upload/uploadfiles/files/2_%20Mahagenco%20
+     limited availability of freshwater in the region to be
+                                                              NMC%20Revised%20presentation%201(C)%20130%20MLD%20STP%20
+     used for other purposes. The case study highlights       (1)06.pdf
+
+     the benefits of taking advantage of the linkages         ITAC (International Technical Assistance Consultants). 2019. “From
+     between the water and energy industries.                 Waste to Resource. Why and How Should we Plan and Invest in
+                                                              Wastewater?” Unpublished technical background report prepared for
+•	 Physical Factors:                                          the World Bank.
+
+
+   •	 The shortage of freshwater in the region, and the       Indian Express, 2017. Maharashtra govt makes reuse of toilet water man-
+                                                              datory for cities. Nov 2017. https://indianexpress.com/article/cities​
+       high costs of sourcing additional freshwater for
+                                                              /mumbai/maharashtra-govt-makes-reuse-of-toilet-water-mandatory​
+       the project, encouraged MahaGenCo and NMC to           -for-cities-4918336/
+
+
+
+
+Wastewater: From Waste to Resource	5
+NDTV, 2017. Maharashtra Chief Minister Signs Policy To Make Wastewater     World Bank 2016. Approaches to Capital Financing and Cost Recovery in
+Usage Compulsory In State’s Industries. Nov 2017. https://swachhindia​     Sewerage Schemes Implemented in India: Lessons Learned and
+.ndtv.com/maharashtra-chief-minister-signs-policy-to-make-wastewa-         Approaches for Future Schemes. March. http://documents.worldbank​
+ter​-usage-compulsory-in-states-industries-14142/                          .org/curated/en/658201467618250938/Approaches-to-capital-financing​
+                                                                           -and-cost-recovery-in-sewerage-schemes-implemented-in-India​
+PwC. 2016. Closing the Water Loop: Reuse of Treated Wastewater in Urban
+                                                                           -lessons​-learned-and-approaches-for-future-schemes
+India. https://www.pwc.in/assets/pdfs/publications/2016/pwc-closing-the​
+-water-loop-reuse-of-treated-wastewater-in-urban-india.pdf.
+
+
+
+
+6	                                                                                                       Wastewater: From Waste to Resource
+                                                                         ­ ank. Some rights ­
+© 2019 International Bank for Reconstruction and Development / The World B                  reserved. The find-
+ings, interpretations, and conclusions expressed in this work do not necessarily reflect the views of The World Bank,
+                                                          represent. The World Bank does not guarantee the accuracy
+its Board of Executive Directors, or the governments they ­
+                             work. This work is subject to a CC BY 3
+of the data included in this ­                                                      (https://creativecommons.org/licenses​
+                                                                   ­ .0 IGO license ­
+ by/3.0/igo). The World Bank does not necessarily own each component of the c
+/­                                                                          ­ ontent. It is your responsibility to
+                                                                                             ­ wner. If you have
+determine whether permission is needed for reuse and to obtain permission from the copyright o
+                 pubrights@worldbank.org.
+questions, email ­
+                                                                                                           SKU W19087
+
+
+
+
+	7

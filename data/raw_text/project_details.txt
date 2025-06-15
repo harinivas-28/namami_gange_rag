@@ -1,0 +1,515 @@
+                                                              Public Disclosure Copy
+
+            The World Bank                                                                                   Implementation Status & Results Report
+            Second National Ganga River Basin Project (P169111)
+
+
+
+Second National Ganga River Basin Project (P169111)
+
+
+ SOUTH ASIA | India | Water Global Practice |
+ IBRD/IDA | Investment Project Financing | FY 2020 | Seq No: 8 | ARCHIVED on 26-Mar-2024 | ISR60195 |
+
+
+ Implementing Agencies: India, National Mission for Clean Ganga, Ministry of Jal Shakti
+
+
+
+ Key Dates
+
+
+  Key Project Dates
+
+   Bank Approval Date: 25-Jun-2020                                            Effectiveness Date: 21-Jul-2020
+   Planned Mid Term Review Date: 06-Feb-2024                                  Actual Mid-Term Review Date: 06-Feb-2024
+   Original Closing Date: 31-Dec-2026                                         Revised Closing Date: 31-Dec-2026
+   Guarantee Expiration Date:
+
+
+Guarantee Information
+
+
+    Deli
+
+    Coverage:                                       [ ] Loan Guarantee [✓] Payment guarantee
+
+    Type of Implementing entity:                    Private
+
+                                                    The concessionaire to be awarded HAM-PPP
+    Guarantee beneficiary:
+                                                    contracts
+
+    Includes Payment Guarantee                      Yes
+
+
+    Guarantee fees:                                 UpFront
+
+
+    Are guarantee fees current?
+
+    Guarantee fees payment due dates:
+
+ pdoTable
+ Project Development Objectives
+
+ Project Development Objective (PDO)
+
+
+
+  Project Development Objective (from Project Appraisal Document)
+  The objective of the Project is to reduce point-source pollution from targeted Urban Areas of the Ganga river basin and support the Central
+  Ministry to strengthen the institutional framework for Ganga river basin management.
+
+  HRPDODELs
+
+
+
+
+ Components Table
+
+
+
+3/26/2024                                                                                                                     Page 1 of 8
+                                                            Public Disclosure Copy
+
+            The World Bank                                                                                     Implementation Status & Results Report
+            Second National Ganga River Basin Project (P169111)
+
+
+
+
+ Name
+
+ Institutional Development:(Cost $30.00 M)
+ Infrastructure Development:(Cost $1045.00 M)
+ IBRD Guarantee:(Cost $19.00 M)
+ Program Communications and Management:(Cost $24.00 M)
+ Contingent Emergency Response Component
+
+
+ Overall Ratings
+
+ Name                                                                      Previous Rating                            Current Rating
+
+ Progress towards achievement of PDO                                       Satisfactory                              Moderately Satisfactory
+ Overall Implementation Progress (IP)                                      Moderately Satisfactory                   Moderately Satisfactory
+ Overall Risk Rating                                                       Substantial                               Substantial
+
+
+ Implementation Status and Key Decisions
+
+
+   The Project is making significant progress in key areas, including procurement and implementation of wastewater investments,
+   increased project disbursements, progress with obtaining government clearances for the IBRD Guarantee, and improved
+   implementation of environmental, social, health, and safety measures. In addition, NMCG has adopted institutional development
+   recommendations for river basin management, launched an online monitoring platform, planned to revamp the Ganga Knowledge
+   Center, and completed four national level television commercials to raise awareness about the Namami Gange Programme.
+
+
+
+Guarantee Conditions Precedent
+
+ Description                                                              Status
+
+
+
+
+  Risks
+
+
+ Systematic Operations Risk-rating Tool
+
+
+  Risk Category                                            Rating at Approval                Previous Rating               Current Rating
+
+  Political and Governance                                 Substantial                      Substantial                  Substantial
+  Macroeconomic                                            Moderate                         Moderate                     Moderate
+  Sector Strategies and Policies                           Substantial                      Substantial                  Substantial
+  Technical Design of Project or Program                   Substantial                      Substantial                  Substantial
+  Institutional Capacity for Implementation and
+                                                           Substantial                      Substantial                  Substantial
+  Sustainability
+  Fiduciary                                                Moderate                         Moderate                     Moderate
+  Environment and Social                                   Substantial                      Substantial                  Substantial
+  Stakeholders                                             Substantial                      Substantial                  Substantial
+
+
+
+3/26/2024                                                                                                                     Page 2 of 8
+                                                             Public Disclosure Copy
+
+            The World Bank                                                                                     Implementation Status & Results Report
+            Second National Ganga River Basin Project (P169111)
+
+
+
+
+  Other                                                     --                              --                             --
+  Overall                                                   Substantial                    Substantial                   Substantial
+
+
+
+  Results
+
+
+ PDO Indicators by Objectives / Outcomes
+
+
+
+   Reduce point-source pollution from targeted Urban Areas of the Ganga river basin
+   IN01410149
+    ►Amount of BOD pollution load reduced due to Project interventions (Metric tons/year, Custom)
+
+                                      Baseline                    Actual (Previous)              Actual (Current)          End Target
+
+    Value                             0.00                        2,752.00                       4,318.00                  30,000.00
+
+   Date                           21-Jul-2020                  01-Sep-2023                  29-Feb-2024               31-Dec-2026
+   IN01410151
+   ►Number of STPs constructed or rehabilitated under the Project which meet the national discharge standards at least 95 percent of the time
+   (Number, Custom)
+
+                                      Baseline                    Actual (Previous)              Actual (Current)          End Target
+
+    Value                             0.00                        2.00                           4.00                      12.00
+
+    Date                              21-Jul-2020                 01-Sep-2023                    29-Feb-2024              31-Dec-2026
+
+
+
+   Support the central ministry to develop an institutional framework for Ganga river basin management
+   IN01410148
+   ►Adopted recommendations of the study on institutional framework for Ganga river basin management are implemented (Percentage,
+   Custom)
+
+                                      Baseline                    Actual (Previous)              Actual (Current)          End Target
+
+    Value                             0.00                        0.00                           80.00                     80.00
+
+    Date                              21-Jul-2020                 01-Sep-2023                    29-Feb-2024              31-Dec-2026
+                                       The NMCG has developed a draft report – Strategy Framework for Institutional Development of NMCG
+                                       with the support of GIZ with clear recommendations. NMCG has adopted the following recommendations
+                                       and is working towards implementing them with the support of the project.
+                                       1. Establishing an RBM unit within the NMCG
+   Comments:                           2. Formation and functioning of thematic expert groups (TEGs)
+                                       3. Stakeholder engagement and involvement
+                                       4. Separation of regulatory functions
+                                       5. RBM-Unit focal point
+   IN01410150
+   ►A public online system for continuous monitoring of water quality and flow in the Ganga and selected tributaries is functional (Yes/No,
+   Custom)
+
+                                      Baseline                    Actual (Previous)              Actual (Current)          End Target
+
+    Value                             No                          No                             No                        Yes
+
+    Date                              21-Jul-2020                 01-Sep-2023                    29-Feb-2024              31-Dec-2026
+   Comments:
+
+3/26/2024                                                                                                                       Page 3 of 8
+                                                                 Public Disclosure Copy
+
+            The World Bank                                                                                       Implementation Status & Results Report
+            Second National Ganga River Basin Project (P169111)
+
+
+
+                                        The indicator is partially met..
+
+
+
+ Overall Comments PDO
+
+  An online system for continuous monitoring of water quality with public access is functional. The indicator is partially met given that flow data is
+  not yet integrated into the NMCG online portal. Public access to flow data is considered restricted as per the 2018 hydro-meteorological
+  dissemination policy. Data can be shared with government entities, but sharing flow data with the public is restricted. During the MTR mission,
+  there was a proposal to adjust the indicator to: key stakeholders have access to an online system for continuous monitoring of water quality
+  and flow in the Ganga and selected tributaries.
+
+  During the mission, NMCG also proposed modifying the institutional framework indicator to Implementing the recommendations of the study on
+  the institutional framework for the Ganga River.
+
+  The mission and NMCG agreed to change the target of PDO2 from 12 to 20 STPs to reflect current and programmed investments better.
+
+
+
+
+ Intermediate Results Indicators by Components
+
+
+
+   Institutional Development
+    IN01410152
+    ►Number of States which have a roadmap for sustained O&M sanitation assets beyond the timeframe funded by Central Government
+    (Number, Custom)
+
+                                        Baseline                      Actual (Previous)            Actual (Current)           End Target
+
+    Value                              0.00                           0.00                         0.00                       1.00
+
+   Date                            21-Jul-2020                  01-Sep-2023                29-Feb-2024              31-Dec-2026
+   IN01410154
+   ►A system for more detailed water balance tracking in key reaches is developed and implemented to guide operational flow regime
+   optimization (Yes/No, Custom)
+
+                                        Baseline                      Actual (Previous)            Actual (Current)           End Target
+
+    Value                              No                             No                           No                         Yes
+
+   Date                           21-Jul-2020                   01-Sep-2023                  29-Feb-2024            31-Dec-2026
+   IN01410157
+   ►Detailed assessment of environmental flow options for all impacted river reaches completed, documented and disseminated (Yes/No,
+   Custom)
+
+                                        Baseline                      Actual (Previous)            Actual (Current)           End Target
+
+    Value                              No                             No                           No                         Yes
+
+    Date                               21-Jul-2020                    01-Sep-2023                  29-Feb-2024                31-Dec-2026
+                                        NMCG reported that e-flow assessments have so far been undertaken for Ganga, Ramganga, and
+                                        Yamuna with the support of various agencies, and e-flow notifications issued for the first two. NMCG to
+                                        identify a fourth river stretch in the Ganga basin that requires e-flow assessment and submit an action
+   Comments:
+                                        plan for its development by April 15, 2024. The MTR proposed to change the indicator name to Detailed
+                                        assessment of environmental flow for selected impacted river reaches completed and disseminated.
+                                        Target: 4 environmental flow studies
+
+
+3/26/2024                                                                                                                         Page 4 of 8
+                                                             Public Disclosure Copy
+
+            The World Bank                                                                                    Implementation Status & Results Report
+            Second National Ganga River Basin Project (P169111)
+
+
+
+
+   IN01410159
+   ►Number of ULB with an integrated city-wide sanitation plan informed by a GIS and roadmap for financing long-term operation and
+   maintenance approved by the ULB (Number, Custom)
+
+                                      Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             0.00                        0.00                          0.00                      2.00
+
+    Date                              21-Jul-2020                 01-Sep-2023                   29-Feb-2024              31-Dec-2026
+    IN01410161
+    ►Percentage of female staff in NMCG and state-wise EAs (Percentage, Custom)
+
+                                      Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             4.30                        30.00                         30.30                     20.00
+
+    Date                              21-Jul-2020                 01-Sep-2023                   29-Feb-2024              31-Dec-2026
+    IN01410163
+    ►Share of grievances redressed within 30 days of receipt (Percentage, Custom)
+
+                                      Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             80.00                       80.00                         100.00                    90.00
+
+    Date                              21-Jul-2020                 01-Sep-2023                   29-Feb-2024              31-Dec-2026
+
+
+
+   Infrastructure Development
+    IN01410156
+    ►Wastewater treatment capacity created under the Project (Liters (Million), Custom)
+
+                                      Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             0.00                        120.00                        247.00                    865.00
+
+    Date                              21-Jul-2020                 01-Sep-2023                   29-Feb-2024              31-Dec-2026
+    IN01410158
+    ►Volume of wastewater treated due to Project interventions (Liters (Million), Custom)
+
+                                      Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             0.00                        58.00                         112.00                    800.00
+
+    Date                              21-Jul-2020                 01-Sep-2023                   29-Feb-2024              31-Dec-2026
+    IN01410160
+    ►Number of facilities setup for fecal sludge treatment under the Project (Number, Custom)
+
+                                      Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             0.00                        0.00                          0.00                      5.00
+
+    Date                              21-Jul-2020                 01-Sep-2023                   29-Feb-2024              31-Dec-2026
+
+                                       Under Construction (Digha, Kankarbagh, Howrah, Bally, Baranagar, and Agra)
+   Comments:
+   IN01410162
+
+
+3/26/2024                                                                                                                    Page 5 of 8
+                                                               Public Disclosure Copy
+
+            The World Bank                                                                                     Implementation Status & Results Report
+            Second National Ganga River Basin Project (P169111)
+
+
+
+
+    ►Number of water quality monitoring stations generating real-time data (Number, Custom)
+
+                                       Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             44.00                        76.00                         40.00                     150.00
+
+    Date                              21-Jul-2020                  01-Sep-2023                   29-Feb-2024               31-Dec-2026
+
+                                       Procurement of 110 RTWQMS is underway, with bid submission date set as March 15, 2024.
+   Comments:
+   IN01410164
+    ►No of km of network laid under the Project (Kilometers, Custom)
+
+                                       Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             0.00                         281.00                        390.00                    900.00
+
+    Date                              21-Jul-2020                  01-Sep-2023                   29-Feb-2024               31-Dec-2026
+    IN01410165
+    ►No of house connections delivered under the Project (Number (Thousand), Custom)
+
+                                       Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             0.00                         91,236.00                     92,455.00                 245,000.00
+
+    Date                              21-Jul-2020                  01-Sep-2023                   29-Feb-2024               31-Dec-2026
+
+
+
+   Program communication and management
+   IN01410153
+    ►Number of mass media campaigns implemented to promote behavior change (Number, Custom)
+
+                                       Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             0.00                         0.00                          2.00                      4.00
+
+    Date                              21-Jul-2020                  01-Sep-2023                   29-Feb-2024               31-Dec-2026
+    IN01410155
+    ►Share of core staff positions filled in each implementing agency maintained above 80% at any point in time (Percentage, Custom)
+
+                                       Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                             80.00                        80.00                         85.00                     90.00
+
+    Date                              01-Sep-2023                  01-Sep-2023                   29-Feb-2024               31-Dec-2026
+
+                                       This indicator is expected to improve with new staff from Bihar and UP.
+   Comments:
+
+
+ Overall Comments IR
+
+  Overall, intermediate indicators will achieve the targets, but a few indicator modifications are proposed. The MTR mission discussed
+  adjustments to intermediate indicators and targets to improve clarity and ensure a realistic link between the Project’s investments and
+  outcomes.
+
+  The e-flow and the ULB indicators are proposed as follows:
+
+
+
+
+3/26/2024                                                                                                                      Page 6 of 8
+                                                                   Public Disclosure Copy
+
+            The World Bank                                                                                           Implementation Status & Results Report
+            Second National Ganga River Basin Project (P169111)
+
+
+
+  (i) Detailed assessment of environmental flow for selected impacted river reaches completed and disseminated; target: 4 environmental flow
+  studies.
+
+  (ii) Number of ULBs with Urban River Management Plans (URMPs) and financing roadmap. Change the target to 18 ULBs.
+
+  NMCG also proposed modifying the targets from the network laid and household connections delivered to 600 km and 162,000 households,
+  respectively.
+
+  Water quality monitoring stations experienced a decline. Still, these are expected to increase with the procurement of 110 real-time water
+  quality monitoring stations.
+
+
+
+
+ Performance-Based Conditions
+
+
+
+
+ Data on Financial Performance
+
+
+Disbursements (by loan)
+
+ Project        Loan/Credit/TF    Status       Currency           Original   Revised       Cancelled    Disbursed         Undisbursed                % Disbursed
+
+
+
+
+ P169111        IBRD-91360        Effective    USD                381.00      381.00            0.00          126.06           254.94                       33%
+
+
+
+
+Key Dates (by loan)
+
+ Project         Loan/Credit/TF    Status         Approval Date       Signing Date      Effectiveness Date       Orig. Closing Date         Rev. Closing Date
+
+ P169111         IBRD-91360        Effective      25-Jun-2020         07-Jul-2020       21-Jul-2020              31-Dec-2026                31-Dec-2026
+
+
+Guarantee Amount
+
+ Project        Guarantee No.     Status                 Currency                   Original           Revised              Cancelled             Current Amount
+
+
+ P174312        IBRD-G3170        Not Effective            USD                         19.00                 19.00                      0                  19.00
+
+
+
+
+3/26/2024                                                                                                                             Page 7 of 8
+                                                               Public Disclosure Copy
+
+            The World Bank                                                                               Implementation Status & Results Report
+            Second National Ganga River Basin Project (P169111)
+
+
+
+Guarantee Dates
+                                                                                                        Orig. Guarantee        Rev. Guarantee
+ Project         Guarantee No      Status      Approval Date      Signing Date     Effectiveness Date
+                                                                                                        Expiration Date        Expiration Date
+                                   Not
+ P174312         IBRD-G3170                    25-Jun-2020
+                                   Effective
+
+
+Cumulative Disbursements
+
+
+
+
+  Restructuring History
+
+
+  Level 2 Approved on 27-Apr-2022
+
+
+
+
+  Related Project(s)
+
+
+ P174312-Second National Ganga River Basin Guarantee
+
+
+
+
+3/26/2024                                                                                                                 Page 8 of 8

@@ -39,8 +39,8 @@ def build_vector_store():
     db = FAISS.from_documents(docs, embeddings)
 
     print(f"Saving FAISS index to {VECTOR_STORE_PATH}...")
-    if not os.path.exists("../vector_store"):
-        os.makedirs("../vector_store")
+    if not os.path.exists("./vector_store"):
+        os.makedirs("./vector_store")
     db.save_local(VECTOR_STORE_PATH)
     
     print("Vector store created and saved successfully.")

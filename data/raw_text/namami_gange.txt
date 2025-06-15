@@ -1,0 +1,587 @@
+          National Mission for Clean Ganga
+                       Ministry of Jal Shakti
+       Department of Water Resources, River Development &
+            Ganga Rejuvenation, Government of India
+
+
+
+
+Environmental and Social Management Framework
+                             (ESMF)
+
+
+
+
+                             Prepared by
+           The Energy and Resources Institute (January 2011)
+
+
+                             Updated by
+          Lea Associates South Asia Pvt. Ltd.(November 2019)
+                                                            CONTENTS
+Executive Summary ....................................................................................................................... 1
+1.1             Background .............................................................................................................................. 1
+1.2             National Mission for Clean Ganga (NMCG) ............................................................................. 1
+1.3             Brief Project Description .......................................................................................................... 2
+1.4             Portfolio of Projects: NGRBP.................................................................................................... 2
+1.5             Key Achievements under Namami Gange Programme ........................................................... 3
+1.6             Identified Thurst Areas and Action Points under Namami Gange........................................... 3
+1.7             Environmental and Social Analysis (ESA) and Management Framework (ESMF).................... 3
+1.8             Objectives of ESMF: ................................................................................................................. 4
+1.9             Laws and Regulatory Framework............................................................................................. 4
+1.10            Environmental and Social Baseline .......................................................................................... 5
+1.11            Identification of potential Environmental and Social Impacts and Mitigation Measures ....... 6
+1.12            Procedure for Environmental & Social Management .............................................................. 7
+1.13            Environment and Social Assessment for DBOT/Retro financing Projects: .............................. 8
+1.14            Environment and Social Assessment for the HAM based PPP Projects: ................................. 8
+1.15            Institutional arrangement & Mechanism of ESMF &Audit Implementation ........................... 9
+1.16            Consultation functionaries as per Audit findings..................................................................... 9
+
+
+
+
+                                                                                                                                                          i
+                                 Glossary of Terms
+
+Bigha                               1/5 of an acre
+Development Block                   A number of villages grouped together form a Development
+                                    Block.
+
+District Collector/ Magistrate      Administrative head of a District.
+Divisional Commissioner             Administrative head of a division comprising of a number of
+                                    Districts.
+
+Grievance Redressal Cell            A cell set up for grievance redressal by the competent
+                                    authority at various levels
+
+Hectare                             A unit for measuring land area. (10,000 m2).
+Kachha                              Structures with stone/ mud wall/ thatch roof
+Non-titleholders                    Drawing economic benefits from a piece of land, but not the
+                                    owner of the land
+
+Panchayat                           Elected local self-governing body at village level.
+Panchayat Samiti                    Local Self-governing body at Block level
+Pucca                               Cement, bricks or concrete build structure
+Sarpanch                            Elected Head/chief of a village level body.
+Semi Pucca                          Structures with tiles/ thatch roof/ brick cement wall
+Tehsil/ Subdivision                 A group of Blocks
+
+
+
+
+                                                                                                  ii
+EXECUTIVE SUMMARY
+
+1.1       BACKGROUND
+
+River Ganga has significant economic, environmental and cultural value in India. Rising in the Himalayas
+and flowing in to the Bay of Bengal, the river traverses a course of more than 2,500 km through the plains
+of north and eastern India. The Ganga basin – which also extends into parts of Nepal, China and
+Bangladesh – accounts for 26 per cent of India’s landmass, 30 per cent of its water resources and more
+than 40 per cent of its population. The Ganga also serves as one of India’s holiest rivers whose cultural and
+spiritual significance transcends the boundaries of the basin.
+
+Despite its importance, extreme pollution pressures pose a great threat to the biodiversity and
+environmental sustainability of the Ganga, with detrimental effects on both the quantity and quality of its
+flows. Increasing population in the basin and haphazard urbanization and industrial growth has significantly
+impacted the water quality of River Ganga, particularly during the dry season.
+
+The previous attempt to clean the river, such as Ganga Action Plan (GAP) launched in 1985 have provided
+some gains in arresting rate of water quality degradation, but lot more needs to be done. The lessons
+drawn from this prior experience indicate that improving water quality in the Ganga three-pronged
+approach has been adopted as mentioned below:
+
+ (i).    Establishing a basin-level, multi-sectoral framework for addressing pollution in the river (including
+         national/state policies and river basin management institutions);
+ (ii).   Making relevant institutions operational and effective (e.g. with the capacity to plan, implement and
+         manage investments and enforce regulations); and,
+(iii).   Implementing a phased program of prioritized infrastructure investments (with emphasis on sustainable
+         operations and mobilization of community support)
+
+As a major first step in this direction, the Government of India (GoI) has established the National Ganga
+River Basin Authority (NGRBA) in 2009 and National Council for River Ganga (Rejuvenation, Protection and
+Management) in 2016, as an Authority has been created for comprehensive management of the river. The
+Namami Gange Programme launched in 2015 has adopted a river-basin approach and has been given a
+multi- sectoral mandate to address both water quantity and quality aspects. Under Namami Gange
+Programme, diverse set of interventions for cleaning and rejuvenation of river Ganga have been taken up.
+These include pollution abatement activities including sewage, industrial effluent, Solid Waste etc., River
+Front Management, Aviral Dhara, Rural Sanitation, Afforestation, Biodiversity Conservation, Public
+Participation etc. The programme covers short term, medium term and long term activities.
+
+The pace of these projects has gathered momentum and all efforts are being made to complete these
+projects well within the respective timelines.
+
+National Ganga River Basin Project (NGRBP) started in 2011 and funded by World Bank has now been
+included as a part of Namami Gange Programme.
+
+1.2       NATIONAL MISSION FOR CLEAN GANGA (NMCG)
+
+The National Mission for Clean Ganga was established in the form of a national level Program Management
+Group (PMG) in 2011, for seeking $1bn assistance from World Bank. Cabinet Committee on Economic
+Affairs (CCEA) accorded approval on 28.04.2011 for the World bank assisted National Ganga River Basin
+Project (NGRBP) at an estimated cost of Rs. 7000 crore to be implemented by NMCG as a registered Society
+
+                                                      1
+under the Societies Registration Act 1860, to act as an implementation arm of NGRBA (External Funding).
+
+With change in Allocation of Business Rules, 1961 vide Gazette Notification dated 31.07.2014, the work
+related to Ganga & its tributaries was transferred to Ministry of Water Resources, River Development &
+Ganga Rejuvenation (Now Ministry of Jalshakti) from the Ministry of Environment & Forests. The next
+major development in the evolution of NMCG was launch of Namami Gange Programme on 13th May 2015
+with the approval of Cabinet as a Central Sector Scheme (100% central assistance), with components
+including all objectives of NGRBA. The non-lapsable fund of Rs 20,000 crore was earmarked for five year
+period, 2015-2020.
+
+1.3          BRIEF PROJECT DESCRIPTION
+
+The earlier NGRBP prgramme usually have 70% central share and 30% state share at the sub-projects levels
+and support for 5 years of Operation and Maintenance. After launching of Namami Gange programme
+almost all the new projects sanctioned under Namami Gange Programme would have 100% funding from
+the Central Government for the entire life cycle cost of the assets created, which includes 15-year
+Operation & Maintenance cost as well. Namami Gange Programme has been segregated into two different
+components:
+
+       Component A: Pertains to ongoing projects of cleaning of river Ganga & its tributaries, including World Bank
+        Assisted NGRBP having remaining central liabilities.
+       Component B: Pertains to new initiatives to be undertaken under National Ganga Plan in 5 major sectors i.e.
+        Infrastructure Development (Sewage Treatment, River Front Development, and Industrial Waste Water
+        Treatment & Solid Waste Management), Institutional Development, Ecological Sustainability, Research &
+        Development and Communication & Public Outreach.
+
+
+
+1.4          PORTFOLIO OF PROJECTS: NGRBP
+
+The portfolio of river pollution mitigation projects to be implemented under the Namami Gange and its
+components areas under.
+S.No.                Portfolio of                                              Components
+                       Projects
+(i)            Sewerage and              Provision for an entirely new sewerage network including individual house connections
+               Sanitation                 and gravity based interception and diversion arrangements to drains carrying sanitary
+               Schemes                    sullage/dry weather flow
+                                         Extensions to existing sewerage networks in some parts of cities/towns to include areas
+                                          which are un-sewered hitherto or to newly developed areas in the recent years
+(ii)           Sewage Treatment          Entirely new sewage treatment plant/facility
+               Plants/Facility           Augmentation of capacities in existing sewage treatment plant/facility
+                                         Remodeling/Renovation of existing sewage treatment facilities, resulting in better
+                                          effluent quality and augmented treatment capacity
+(iii)          Solid Waste               Engineered landfills with leachate collection and treatment systems
+               Treatment                 Waste segregation and composting facilities
+               Facilities
+
+(iv)           Industrial Pollution      Common Industrial Effluent Treatment Plants(CETP’s)
+               Control Facilities        Hazardous Waste Treatment, Storage and Disposal Facility(TSDF’s)
+                                         Other Industrial Effluent Treatment and disposal facility
+(v)            River Front               River Front Development and beautification schemes of river banks
+               Development               Construction of Bathing Ghats
+               Schemes                   Redevelopment of Cremation grounds, situated on river banks
+                                         Development of electric and or gas based crematoriums situated on river banks
+The implementation of these projects is spread across several cities and/or towns within the Ganga basin
+states/UT of Uttarakhand, Uttar Pradesh, Haryana, Himachal Pradesh, Delhi, Bihar, Jharkhand, Rajasthan,
+Madhya Pradesh, Chhattisgarh and West Bengal.
+
+                                                                2
+1.5           KEY ACHIEVEMENTS UNDER NAMAMI GANGE PROGRAMME
+
+Under Namami Gange programme, till December 2019, a total of 310 projects have been sanctioned at an
+estimated cost of Rs. 28,909.59Crore, out of which 114 projects have been completed and made
+operational; rest of the projects are at various stages of implementation.
+These projects are related to: Sewerage Infrastructure, Ghat Entry Level activities, Institutional
+development, project Implementation support/ research & study projects/ public relations and Public
+Outreach, Biodiversity education, Construction of IHHL across Gram Panchayats near Ganga River,
+Composite Ecological Task Force & Ganga Mitra, Bioremediation and Afforestation etc.
+
+1.6           IDENTIFIED THURST AREAS AND ACTION POINTS UNDER NAMAMI GANGE
+
+There are 7 identified thrust areas and 21 action points for the rejuvenation of Ganga and its tributaries, as below, the
+details are given in the main report.
+     Thrust Area 1-Aviral Dhara
+     Thrust Area 2-Nirmal Dhara
+     Thrust Area 3-Protection and Beautification of riverfront and development of Public amenities
+     Thrust Area 4-Inter-ministerial Coordination, State’s participation and Capacity building
+     Thrust Area 5-Research and Monitoring
+     Thrust Area 6-Conservation of plants and aquatic species
+     Thrust Area 7-People’s participation and Creating Awareness
+
+The Ganga 1 projects were mostly on the main-stem of river Ganga which covered the 5 basin States i.e.
+Bihar, Jharkhand, Uttar Pradesh, West Bengal and Uttarakhand. The Ganga 2 projects are in continuation to
+the Ganga 1 projects and sub-project which are similar in nature. The focus of NMCG has also included
+from Ganga main-stem to the polluted stretches of the tributaries of river Ganga. Thus, the need was felt
+for updating the ESMF to showcase the inclusion of the tributaries, projects and sub-projects with respect
+to Ganga 1 and Ganga 2.
+
+Accordingly, the Volume 1 of the ESMF has been updated to provide an overview of the Ganga basin profile
+including major tributaries like Ramganga, Kali, Yamuna (downstream of Delhi), Hindon, Gomti, Betwa,
+Chambal, Parbati, Shipra, Sind, Tons, Son, Damodar, Ajay, BurhiGandak, Kiul, Kosi, Mahananda, Ken and
+Ghagra. The Ganga basin covers 11 States i.e. Uttarakhand, Uttar Pradesh, Haryana, Himachal Pradesh,
+Delhi, Bihar, Jharkhand, Rajasthan, Madhya Pradesh, Chhattisgarh and West Bengal.
+
+1.7           ENVIRONMENTAL AND SOCIAL ANALYSIS (ESA) AND MANAGEMENT
+              FRAMEWORK (ESMF)
+
+All potential projects and sub-projects planned under the NGRBP/Namami Gange programme may have
+environmental and social impacts. Therefore, the purpose of developing the Environmental and Social
+Management Frame Work (ESMF) was to facilitate the management of environmental and social issues of
+all investment projects proposed by the NGRBA/Namami Gange at the very beginning of project planning
+and implementation. The ESMF currently addresses the broader portfolio of projects1 to be implemented
+under the Namami Gange along with its implementation methods like Hybrid Annuity Mode (HAM), DBOT,
+Retroactive Financing etc. As specific project identification will operate as a demand-driven process and
+also depends on many other factors like polluted river stretch etc., a single ESMF common to the NMCG,
+SMCG and all other project implementing agencies is required so that project specific ESIA&ESMP or
+ESDDRs are prepared based upon a common guideline. In this line the ESMF was updated depicting all the
+various process of project implementation and revised land acquisition details in August 2017. This version
+of the ESMF is now being updated considering the inclusion of tributaries; a basic profile of such tributaries
+is already presented in Volume-I of ESMF.
+
+1
+    Portfolio of projects are discussed in detail in Chapter V
+                                                                 3
+1.8         OBJECTIVES OF ESMF:
+
+The ESMF for Namami Gange project2has following objectives:
+          Determine key social and environmental issues associated with River Ganga and possible activities that
+           could be initiated by NGRBA, both at national as well as state level;
+          Conduct an environmental and social impact assessment of the ‘no regret’ inves tments proposed to be
+           supported by the project, identify potential environmental and social impacts associated with such
+           investments and recommend measures to mitigate impacts;
+          Carry out an analysis of various stakeholders associated with the project, identify their concerns with regard
+           to environmental and social aspects, and recommend measures to mainstream these aspects into the
+           project;
+          Develop an Environmental and Social Management Plan (ESMP) for the project, to ensure that
+           environmental and social issues are effectively addressed in project design and implementation.
+
+1.9         LAWS AND REGULATORY FRAMEWORK
+
+                                                  Relevant National key Legislations
+    Environment Protection Act, 1986
+                                                            th
+    Environmental Impact Assessment (EIA)Notification 14 Sep’ 2006
+    Air (Prevention and Control of Pollution) Act, 1981
+    Water Prevention and Control of Pollution Act, 1974
+    The Noise Pollution (Regulation and Control) Rules, 2000
+    The Wildlife (Protection) Act, 1972 and Its Amendments
+    The Forest (Conservation) Act, 1980
+    Solid Waste Management Rules, 2016
+    Construction and Demolition Waste Management Rules, 2016
+    Coastal Regulation Zone(CRZ) Notification 2011 & amendments after
+    Forest Right Act-2006, The Scheduled Tribe and Other Traditional Forest Dwellers (Recognition of Forest Right) Act, 2006
+    The Ancient Monuments and Archaeological Sites and Remains Act , 1958
+    Disaster Management Act, 2005
+    The National Green Tribunal Act, 2010
+    Public Liability and Insurance Act, 1991
+    Explosive Act, 1984
+    Minor Mineral and concession Rules
+    The Motor Vehicles (Amendment) Act, 2019
+    National Forest Policy, 1988
+    The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996 and the Cess Act
+     of 1996
+    Hazardous Wastes (Management and Handling) Rules, 1989 (the Rules govern handling, movement and disposal of hazardous
+     waste);
+    Manufacture, Storage and Import of Hazardous Chemicals Rules 1989, amended 1994 and 2000 (the Rules provide indicative
+     criteria for hazardous chemicals and require occupiers to identify major accident hazards and prepare on-site and off-site
+     emergency plans).
+    Right to fair compensation and transparency in land acquisition, rehabilitation and Resettlement Act 2013
+    The Scheduled Tribes and other Traditional Forest Dwellers (Recognition of Forest Rights) Act
+                                                    Applicable World Bank Policies
+    Environmental Assessment (OP 4.01)- Umbrella Policy applicable for all infrastructural projects- Applicable in all Investment
+    Natural Habitats (OP 4.04)- to protect natural habitat including forest & wildlife areas- Applicable where Forest and Wild Life
+     are impacted due to project
+    Forestry (OP 4.36) – to protect the health and quality of forest, welfare and right of people dependent on forest resource and
+
+
+2
+    ‘Project’ comprises all the sub-projects sanctioned under NamamiGange
+                                                                   4
+    utilization of natural forests or plantations.
+   Involuntary Resettlement (4.12)- to avoid minimize involuntary resettlement where feasible- Applicable in case of Private land
+    Acquisition
+   Indigenous people (OP 4.10)- to protect the dignity, right and cultural uniqueness of indigenous people- Applicable, where
+    project site involves tribes, indigenous people are impacted or benefitted.
+
+
+1.10       ENVIRONMENTAL AND SOCIAL BASELINE
+
+The Ganga basin encompasses an area of more than a million square kilometers (1,086,000 sq.km.) spread
+over four countries: India, Nepal, Bangladesh and China. With 861,404 sq.km. Within India itself, the
+Ganga basin is the largest river basin in India and covers approximately 26.3 per cent of India’s total
+geographical area. The Ganga flows through the states of Uttarakhand, Uttar Pradesh, Bihar, Delhi,
+Haryana, Himachal Pradesh, Madhya Pradesh, Jharkhand and West Bengal. The Ganga rises in the Garhwal
+Himalaya (30o 55’N, 79o7’E) as the Bhagirathi. Throughout the course of the Ganga, from its source at
+Gaumukh to its mouth at Sagar Island in Bay of Bengal, it is a common practice for Indians to take daily dips
+in the holy waters of the Ganga, especially at places of pilgrimage like Rishikesh, Haridwar,
+Garhmukteshwar, Kannauj, Allahabad, Mirzapur and Varanasi.
+
+Based on stream characteristics, the entire 2,525 km course of the Ganga can be divided into the following
+major five sections: (i) mountainous, (ii) upper plain, (iii) middle plain, (iv) deltaic non-tidal and (v) deltaic
+tidal plain. In term of physiography, the Ganga basin falls entirely in three major i.e. 1) Northern
+Mountains, (2) Great Plains (3) Central Highlands regions of India. Major soil type of the Ganga Basin is
+alluvial soil 52% followed by red soil (11%). Climatically, the tropical and subtropical temperature zones are
+most predominant in the entire Ganga basin. May is the hottest month in most part of the basin, while
+January is coldest. The weather in the Ganga basin is characterized by a distinct wet season during the
+period of south west monsoon (June to September). The Ganga basin, by virtue of its alluvial makeup, is
+endowed with vast resources of ground water. The mean annual replenishable groundwater in India as a
+whole has been assessed at 446.87 billion cumec per year, of which about 219.09 billion cumec per year
+(49%) lies in the states of the Ganga basin. Land use of the Ganga basin is extensively cultivated,
+constituting approximately more than 45 per cent of the total area of the India. With respect to forest
+cover, Ganga basin has 17.53% of forest cover to its total geographical region; this is comparatively lesser
+than country level (21%). This may be due to having major area occupied under Agriculture.
+
+The detailed baseline profile of other tributaries are presented in Volume –I. Increasing population,
+urbanization, industrialization, and the use of agricultural chemicals continue to pose a significant threat to
+water quality in the Ganga basin today. The number of cities and towns in the Ganga basin has increased
+from 1873 in 1991 to 1949 in 2001, while the urban population has increased from 88 million in 1991 to
+128 million in 2001. As per census 2011, total 324 class I & class II cities are located in Ganga Basin.
+
+The Ganga basin evidently demands treatment of sewage and minimum ecological flow for its survival as a
+river. Since a river is a living eco-system and therefore ultimate goal should be to protect the functioning of
+the river eco-system.
+The Ganga basin is one of the most densely populated and fertile river basins in the world. The basin
+supports about 600 million people over an area of approximately 860,000 sq. km of which some 100
+million are directly dependent on the river and its tributaries.
+
+For Ganga stem cities/town, projects have been taken up to create 3308 MLD sewage treatment capacity
+against the generation of 2953 MLD (Year 2016). The sewage treatment capacity in Ganga main stem
+towns have now increased from 1575 MLD (Year Dec 2016) to 1954 MLD (Sept 2019), excluding 410 MLD
+                                                                5
+sewage treatment through East Kolkata Wetland.
+
+1.11          IDENTIFICATION OF POTENTIAL ENVIRONMENTAL AND SOCIAL IMPACTS AND
+              MITIGATION MEASURES
+
+Since the Project proposed under Namami Gange Scheme are pollution abatement project of River Basin.
+Although few negative impact may also be encountered due to having project proposal on a fresh land,
+located in busy city limit and catering city’ sanitation etc. Potential Impact and Mitigation measures
+applicable for Namami Gange project has been detailed in Annexure IIA of the ESMF Guideline. However,
+major impact with respect to Environment and Social is presented below
+Type of Project     Potential major Impact
+Sewerage               surface and groundwater contamination due to leakage and/or improper joints in sewers
+Scheme                 severance of utilities and requirement for relocation due to sewer laying
+                       disruption due to local traffic diversion and congestion during sewer laying works
+                       impact on public/private properties and other sensitive receptors along the sewer alignment
+                        during construction
+                       disposal of excess excavated soil and construction debris
+                       Exploitation of water sources for meeting construction water demand.
+                       air and noise pollution from construction equipment’s
+                       Health and safety concerns of workers, while laying or rehabilitating existing sewers.
+Sewage               change in land use pattern, in case of proposed sewage treatment plants at new locations
+Treatment Plants     change in channel hydraulics, triggering erosion and siltation problems, if sewage treatment
+                        plants are proposed in flood plains
+                       change in hydrology and drainage patterns due to the construction activity, particularly, if
+                        sewage treatment facility is located in flood plains
+                       health and safety issues associated with operation and maintenance of sewage treatment
+                        facility, particularly exposure to methane and other noxious gases, sludge contaminated with
+                        heavy metals etc.
+                       issues associated with the disposal of sludge, if sewage is likely to be contaminated with
+                        heavy metals due to mix of industrial waste with sewage
+                       Emission of methane, if not utilized for power generation or any other gainful applications.
+                       water logging problems due to improper/ inadequate disposal of treated effluent or effluent
+                        not conforming to stipulated discharge standards during operation
+                       Sludge from a waste treatment plant may constitute a hazardous and nonhazardous waste.
+Industrial         Pollution of water resources
+Pollution Control  Soil contamination due to the disposal of untreated / partially treated effluents and / or
+                        hazardous wastes
+Initiatives
+                     air quality, odour and fly nuisance due to the improper operation of treatment facilities
+                     health impacts on the neighboring communities
+                     Issues of leachate and loss of productivity to agriculture lands due to the disposal of sludge
+                        from the facilities.
+Solid     Waste      surface and ground water contamination due to unmanaged leachate collection and disposal
+Management           change in channel hydraulics, triggering erosion and siltation problems, if solid waste
+                        management facility is proposed in flood plains
+Investments
+                       change in hydrology and drainage pattern, if the facility is located in flood plains
+                       air quality, odour and fly nuisance due to the improper operation of waste disposal or
+                        processing facilities
+                       issues pertaining to siting of facility such as change in land use pattern, proximity to
+                        settlements, cultural properties and any other sensitive receptors
+                       air and noise pollution from construction equipment’s
+                                                         6
+Type of Project     Potential major Impact
+                     Health and safety issues associated with operation and maintenance of solid waste
+                        treatment facility, particularly of workers manually handling wastes.
+River       Front    change in land use, and drainage pattern
+Management           change in channel hydraulics, triggering \erosion and siltation problems either at in situ or
+                        elsewhere along the course of river
+Investments
+                       impact due to inadequate solid and liquid waste disposal arrangements
+                       impact due to inadequate sanitation, health and safety facilities
+                       impact on river water quality due to proposed amenities
+                       impact on environmental aesthetics and cultural value
+Major      Social      Direct purchase of small land parcels for SPS/ Lifting station
+Impact applicable      Land acquisition / taking for sewerage treatment plant leading to loss of livelihood /
+                        displacement of non-titleholders / titleholders
+for all kind of
+project
+                       Temporary land taking causing inconvenience to local community
+                       Temporary loss of common grazing area
+
+Mitigation Measure: Mitigation measure applicable during planning -designing phase, construction phase
+and operational phase has been presented in annexure II & III of ESMF for Sewerage scheme and STP
+projects. Few insights of major points are described below, which is applicable for all STP, Sewerage and
+River Front Development projects:
+
+ Regulatory Compliance: Obtain necessary approval with respect to project as per regulatory compliance
+ Flood Risk Management: The Design Consultants should design for bypass arrangements, to discharge untreated
+    sewage.
+   Landscape: Undertake Landscape afforestation in nearby areas this will also to cater the issue of Odor, Noise.
+   Treated Waste Water: The treated water quality shall comply with the standards laid down by the state pollution
+    control board for disposal onto the land, water body or for irrigation use.
+   Sludge: Providing adequate and safe sludge disposal facilities, Digested Sludge from a waste treatment plant may
+    constitute a hazardous and nonhazardous waste, therefore periodic testing of Sludge to assess the content of
+    hazardous chemical should be identified (as per CPHEEO manual 2016) before it final disposal at the identified
+    dumping site of MC. Dumping shall be done when the authorized land fill site is not available nearby to project
+    region.
+   Location: Careful planning and design of STP with adequate buffer zones. Future growth of the surrounding areas
+    shall be considered. Select appropriate location away from sensitive locations such as schools and hospitals
+   Other Air, water, Noise, Soil Pollution control measure during construction stage (presented in Sample EMP).
+   Health and Safety: During construction stage, assurance of safe work environment and incident free execution of
+    the project, health and safety of worker as well as overall project is significant in the Namami Gange projects. As
+    per relevant Factory Act 1948 & The Building and Other Construction Workers (Regulation of Employment and
+    Conditions of Service) Act, 1996, concessionaire has to be ensured all related measures reflected in the Site
+    specific ESMP of the projects and will be part of Bid documents.
+
+1.12     PROCEDURE FOR ENVIRONMENTAL & SOCIAL MANAGEMENT
+
+The Environment and Social Management Framework (ESMF) is an integral part of the Namami Gange
+Programme framework document. The ESMF is aligned with the Environment and Social safeguard policies
+of World Bank and the concerned rules and regulations of Government of India. This would be used as an
+umbrella guideline by the Namami Gange program (the NMCG and SMCGs) while preparing and/ or
+appraising, approving and executing the investments.
+
+
+
+
+                                                          7
+1.13      ENVIRONMENT AND SOCIAL ASSESSMENT FOR DBOT/RETRO FINANCING
+          PROJECTS:
+
+As per ESMF guideline each project is scrutinized as to its type, location, scale, and sensitivity and the
+magnitude of its potential environmental impacts (Screening Checklist), based on outcome of screening
+analysis, proposed investment shall be categorized as High and Low category. Therefore, as per ESMF, the
+sub-projects are categorized into (i) High Impact and (ii) Low Impact category, in which, for High Category
+Project, a detailed Environment and Social Assessment and Management Plan (ESAMP) has been carried
+out preferably by a separate consultant apart from the DPR consultant. Sub Projects which are financing
+retroactively, a due diligence study to analyse the Environmental and Social issues are required to be
+carried out by a separate consultant apart from the DPR consultant. The procedures for implementation of
+ESMF in these types of projects are summarized in above flow chart. The approved ESAMP will form part of
+the bidding document. After the award of work the selected contractor may need to update the ESAMP
+based upon the detailed design of the project and shall prepare a site specific ESAMP.
+
+
+
+
+1.14      ENVIRONMENT AND SOCIAL ASSESSMENT FOR THE HAM BASED PPP PROJECTS:
+
+The agreed action for Environment and Social assessment of projects under HAM projects include:
+
+  ESDDR along with Environment and Social Management Action Plan (ESMAP) will be prepared at the
+       DPR stage;
+
+  The ESDDR will cover the basis nature of the projects, a very brief description of the environment and
+       present status along with screening checklist and an analysis of environmental and social issues
+       associated with the project.
+
+  The ESDDR to describe the future action plan to be taken during the detailed design stage by the
+       Hybrid annuity operator/Concessionaire like:
+       o Various regulatory clearances (e.g. environmental clearance, forest clearance, NOC etc. as
+
+                                                    8
+         applicable)
+       o Preparation of Environmental and Social Assessment(ESA)/EIA
+       o Resettlement Action Plan (RAP), as applicable
+       o other actions, and management measures to be implemented by the Concessionaire
+
+ESDDR can become part of the bidding document. The public consultation and disclosure process will
+continue during project implementation. The draft EIA/EMP/RAP etc. for the specific sub-projects will be
+discussed with the affected communities and the final documents will be placed on the websites of the
+NMCG and the SMCGs. The copies of the EMP and RAP will also be placed at the offices of the executing
+agencies, district magistrate and contractor’s office. The executive summary of the EIA and RAP will also be
+translated into local language and placed in the office of the Gram Panchayat of the affected villages.
+Project Monitoring& Training: NMCG, through the respective SMCGs monitors all the approved
+investments under the Namami Gange program to ensure conformity to the requirements of the ESMF.
+The training program for SMCG, EA and various relevant stakeholders has been envisaged in ESMF,
+includes an orientation program on the ESMF, Project Management, Engineering and Public Health.
+Module has been given in annexure of the main report.
+
+The implementation arrangements for the NMCG program are summarized below
+
+                                  National Mission for Clean Ganga (NMCG)
+
+
+
+
+     SMCG,                 SMCG,               SMCG,                                   DoUD&H, Govt.
+                                                                     SMCG,
+  Govt. of Uttar          Govt. of           Govt. of West                              of Jharkhand
+                                                                   Govt. of Bihar
+    Pradesh             Uttarakhand            Bengal                                  (Nodal Agency)
+
+
+
+
+       State Level        State Level           State Level          State Level          State Level
+           EAs                EAs                   EAs                  EAs                  EAs
+
+1.15      INSTITUTIONAL ARRANGEMENT & MECHANISM OF ESMF &AUDIT
+          IMPLEMENTATION
+
+At the NMCG as well at the 5 SMCG levels, one officer for Environmental Safeguard and once officer for
+Social safeguard are appointed for managing social and environmental issues. These officers assist the EAs
+in implementation of ESMF provisions. In the EA, an officer each are designated as social and environment
+officer who are responsible for the implementation of ESMF tasks at the field level with the assistance and
+participation of the local self-government.
+Further in each of the sub-projects level, each of the contracting agencies also deploy their own
+Environment and Health and Safety officer to implement the ESAMP at site.
+
+1.16      CONSULTATION FUNCTIONARIES AS PER AUDIT FINDINGS
+
+As per part of Implementation, monitoring and reporting arrangement of ESMF, an independent
+Environmental and Social audit was conducted by third party in 2018. The audit was conducted as per the
+                                                     9
+    ESMF guidelines. In Audit report, it is reported that key government agencies such as state nodal agencies,
+    Districts implementing units, have been consulted at the various levels to obtain their consent on the ESMF
+    in general and specially on the land acquisition process and resettlement framework. ESA document
+    prepared as per ESMF framework, have incorporated Stakeholder and public consultation at various stages
+    at the local, regional and district levels, community and the relevant stakeholders (SMCG, EA, other
+    departments irrigation department, forest department etc). Specific attention has been paid to Project
+    Affected Persons, habitations or livelihoods will be directly impacted by the proposed sub-project,
+    shopkeepers, Students etc. The mandate for conducting the audit was as per annexure IV of this report.
+    The Audit was conducted in all the five basin states to verify/ witness the corrective action taken by the
+    SMCG/ nodal agencies in addressing the Non-compliance identified during the Environmental and Social
+    Audit.
+
+    Present Functionality of Grievance Redressal Mechanism: At NMCG GRM officers are designated to
+    address all queries registered in the NMCG portal. The GRM officer is supported by one social expert who
+    coordinates with all the SMCGs. At SMCG level, reporting of grievances are being monitored by
+    environmental and social experts. The details are mentioned in the report.
+
+    Budget for implementing ESMF: As per finding of Audit conducted in year 2018 for 30 STPS & Sewerage
+    schemes implemented in five basin states i.e. Uttarakhand, Uttar Pradesh, Bihar, Jharkhand, West Bengal,
+    majorly budget for ESAMP has been considered as ranges from 0.5% to 1% of the total project cost, while
+    Communication and Public Outreach, GAAP expected as 0.1% to 1% of the basic Capital Cost of the project.
+
+                                            Table-1: Budget for implementing ESMF
+                                                                                           Total Cost                    Source
+                                                                  Unit Cost                                              of
+S.No     Item                                            Unit                                                            financing
+                                                                  Rupee        US$         Rupee          US$
+         Preparation of specific ESIA/ESDDR for                                            20900000       298571
+1                                                        38       550000       7857
+         Ganga-1
+         Preparation of ESIA and ESDDR for Ganga-                                          18510000       264429
+2                                                        30       617000       8814                                      World
+         2
+                                                                                                                         Bank
+3        Capacity Building##                             5        10000000     142857      50000000       714285
+4        Implementation of specific ESMP*/RAP            68       10000000     142857      680000000      9714285
+5        Annual ESMF Auditing#                           10       7000000      100000      70000000       1000000
+         Total                                                                             839410000      11991570
+         Total (Say)                                                                       850 Million    12.5 Million
+         *This include cost of implementation of ESAMP/RAP including land purchase cost on an average
+         # Annual ESMF audit cost for 10 years starting from 2018 till 2028
+        ## The capacity building cost is lumpsum for training and other purposes for 5 basin states SPMG and NMCG
+
+
+
+
+                                                                 10

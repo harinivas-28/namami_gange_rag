@@ -28,7 +28,7 @@ URLS_TO_SCRAPE = [
     "https://www.aninews.in/news/world/asia/ganga-connect-concludes-in-london-after-high-level-of-engagement-tangible-outcomes20211129192955/",
     # Add more relevant news articles or official pages here
 ]
-OUTPUT_DIR = "../data/raw_text"
+OUTPUT_DIR = "./data/raw_text"
 
 # --- Helper Function ---
 def scrape_and_save(url: str, output_dir: str):
